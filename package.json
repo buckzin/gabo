@@ -1,0 +1,17 @@
+{
+  "name": "yorkanda",
+  "version": "0.0.1",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "johngrimm-utils": "^2.0.5",
+    "leite": "^0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yorkanda",
+  "description": ""
+}
